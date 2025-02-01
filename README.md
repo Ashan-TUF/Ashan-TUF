@@ -1,5 +1,4 @@
 
-![Profile banner](https://i.imgur.com/VNP2tTx.gif)
 <div align="center">
 
 [![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&pause=E0FBE2&color=E0FBE2&center=true&random=false&width=1000&lines=I'm+Ashan+Kavindu;𝗕𝗦𝗰+(Hons)+Software+Engineering+Undergraduate>)](https://git.io/typing-svg)
