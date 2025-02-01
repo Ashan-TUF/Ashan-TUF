@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=androidstudio,idea,pycharm,vscode,visualstudio,postman,spring,cloudflare,css,bootstrap,tailwind,firebase,git,github,html,java,js,dart,maven,php,react,stackoverflow,xd,figma,mysql,docker,angular,jenkins,mongo,python,c,unreal,aws" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,idea,pycharm,vscode,visualstudio,postman,spring,cloudflare,css,bootstrap,tailwind,firebase,git,github,html,java,js,dart,maven,php,react,stackoverflow,xd,figma,mysql,docker,angular,jenkins,mongo,python,c,nodejs,unreal,aws" />
   </a>
 </p>
 <div align="justify">
