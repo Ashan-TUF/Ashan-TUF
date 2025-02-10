@@ -2,6 +2,11 @@
 
 
 [![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&pause=E0FBE2&color=E0FBE2&center=false&random=false&width=1000&lines=I'm+Ashan+Kavindu;𝗕𝗦𝗰+(Hons)+Software+Engineering+Graduate>)](https://git.io/typing-svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ashan-TUF/Ashan-TUF/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ashan-TUF/Ashan-TUF/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Ashan-TUF/Ashan-TUF/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ```java
 
@@ -55,4 +60,10 @@ public class AboutMe {
     <img src="https://skillicons.dev/icons?i=androidstudio,idea,pycharm,vscode,visualstudio,postman,spring,cloudflare,css,bootstrap,tailwind,firebase,git,github,html,java,js,dart,maven,php,react,stackoverflow,xd,figma,mysql,docker,angular,jenkins,mongo,python,c,nodejs,unreal,aws" />
   </a>
 </p>
+    <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ashan-TUF/Ashan-TUF/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ashan-TUF/Ashan-TUF/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Ashan-TUF/Ashan-TUF/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
