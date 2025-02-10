@@ -1,7 +1,7 @@
 
 
 
-[![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&pause=E0FBE2&color=E0FBE2&center=true&random=false&width=1000&lines=I'm+Ashan+Kavindu;𝗕𝗦𝗰+(Hons)+Software+Engineering+Undergraduate>)](https://git.io/typing-svg)
+[![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&pause=E0FBE2&color=E0FBE2&center=false&random=false&width=1000&lines=I'm+Ashan+Kavindu;𝗕𝗦𝗰+(Hons)+Software+Engineering+Graduate>)](https://git.io/typing-svg)
 
 ```java
 
