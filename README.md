@@ -1,7 +1,7 @@
 
 
 
-[![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&pause=E0FBE2&color=E0FBE2&center=false&random=false&width=1000&lines=I'm+Ashan+Kavindu;𝗕𝗦𝗰+(Hons)+Software+Engineering+Graduate>)](https://git.io/typing-svg)
+[![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&pause=E0FBE2&color=E0FBE2&center=false&random=false&width=1000&lines=I'm+Ashan+Kavindu;𝗕𝗦𝗰+(Hons)+Software+Engineering>)](https://git.io/typing-svg)
 ```java
 
 public class AboutMe {
@@ -51,7 +51,7 @@ public class AboutMe {
 <div align="center">
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=androidstudio,idea,pycharm,vscode,visualstudio,postman,spring,cloudflare,css,bootstrap,tailwind,firebase,git,github,html,java,js,dart,maven,php,react,stackoverflow,xd,figma,mysql,docker,angular,jenkins,mongo,python,c,nodejs,unreal,aws,flask" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,idea,pycharm,vscode,visualstudio,postman,spring,cloudflare,css,bootstrap,tailwind,firebase,git,github,html,java,js,dart,maven,php,react,stackoverflow,xd,figma,mysql,docker,angular,jenkins,mongo,python,c,nodejs,unreal,unity,blender,aws,flask" />
   </a>
 </p>
     <picture>
