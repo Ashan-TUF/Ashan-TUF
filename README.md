@@ -6,11 +6,11 @@
 
 public class AboutMe {
     private static final String NAME = "Ashan Kavindu Kalupahana";
-    private static final String POSITION = "Software Engineer";
+    private static String POSITION = "Software Engineer";
     private static final String COUNTRY = "Sri Lanka";
-    private static final String PORTFOLIO = "ashankavindu.info";
+    private static final String PORTFOLIO = "ashankavindu.vercel.app";
 
-    private static final String[] INTERESTS = {
+    private static String[] INTERESTS = {
         "Full Stack Development",
         "Game Development",
         "DevOps",
@@ -18,13 +18,13 @@ public class AboutMe {
         "Cloud Computing"
     };
 
-    private static final String[] TECH_STACK = {
+    private static String[] TECH_STACK = {
         "Java", "Spring Boot", "Hibernate", "PHP", ".Net", "c#",
         "Java Script", "Type Script", "Node.js", 
         "React",  "Angular", "React Native",
         "MySQL", "MongoDb", "Firebase",
         "AWS", "Docker", "Jenkins",  "MVC",
-        "Git", "GitHub", "Unreal Engine 5.3"
+        "Git", "GitHub", "Unreal Engine 5.3", "Unity", "Blender"
     };
 
     public static void main(String[] args) {
@@ -51,7 +51,7 @@ public class AboutMe {
 <div align="center">
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=androidstudio,idea,pycharm,vscode,visualstudio,postman,spring,cloudflare,css,bootstrap,tailwind,firebase,git,github,html,java,js,dart,maven,php,react,stackoverflow,xd,figma,mysql,docker,angular,jenkins,mongo,python,c,nodejs,unreal,unity,blender,aws,flask" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,idea,pycharm,vscode,visualstudio,postman,spring,cloudflare,css,bootstrap,codepen,arduino,tailwind,firebase,git,github,html,java,cs,js,ts,dart,maven,php,react,threejs,stackoverflow,xd,figma,mysql,docker,angular,jenkins,mongo,python,nodejs,unreal,unity,blender,aws,gcp,flask,vercel,vite" />
   </a>
 </p>
     <picture>
