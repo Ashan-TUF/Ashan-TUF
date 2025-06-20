@@ -6,11 +6,11 @@
 
 public class AboutMe {
     private static final String NAME = "Ashan Kavindu Kalupahana";
-    private static String POSITION = "Software Engineer";
+    private static final String POSITION = "Software Engineer";
     private static final String COUNTRY = "Sri Lanka";
     private static final String PORTFOLIO = "ashankavindu.vercel.app";
 
-    private static String[] INTERESTS = {
+    private static final String[] INTERESTS = {
         "Full Stack Development",
         "Game Development",
         "DevOps",
@@ -18,11 +18,11 @@ public class AboutMe {
         "Cloud Computing"
     };
 
-    private static String[] TECH_STACK = {
-        "Java", "Spring Boot", "Hibernate", "PHP", ".Net", "c#",
-        "Java Script", "Type Script", "Node.js", 
+    private static final String[] TECH_STACK = {
+        "Java", "Spring Boot", "Hibernate", "PHP", ".NET", "C#",
+        "JavaScript", "TypeScript", "Node.js", 
         "React",  "Angular", "React Native",
-        "MySQL", "MongoDb", "Firebase",
+        "MySQL", "MongoDB", "Firebase",
         "AWS", "Docker", "Jenkins",  "MVC",
         "Git", "GitHub", "Unreal Engine 5.3", "Unity", "Blender"
     };
