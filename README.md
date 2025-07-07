@@ -51,7 +51,7 @@ public class AboutMe {
 <div align="center">
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=androidstudio,idea,pycharm,vscode,visualstudio,postman,spring,cloudflare,css,bootstrap,codepen,arduino,tailwind,firebase,git,github,html,java,cs,js,ts,dart,maven,php,react,threejs,stackoverflow,xd,figma,mysql,docker,angular,jenkins,mongo,python,nodejs,unreal,unity,blender,aws,gcp,flask,vercel,vite" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,idea,pycharm,vscode,visualstudio,postman,spring,cloudflare,css,bootstrap,codepen,arduino,tailwind,firebase,git,github,html,java,python,cs,js,ts,dart,maven,php,react,threejs,stackoverflow,xd,figma,mysql,docker,angular,jenkins,mongo,python,nodejs,unreal,unity,blender,aws,gcp,flask,vercel,vite" />
   </a>
 </p>
     <picture>
